@@ -1,9 +1,0 @@
-Vlastnosti el. náboja
-
-10. Trením 2 telies sa premistňujú elektróny
-= telese s nadbytkom elektrónov sa nabíja záporne, teleso s nedostatkom elektrónov sa nabíja kladne
-
-Coulombov zákon 
-pre veľkosť elektorckej sily platí:
-= je priamo úmerná súčinu nábojov Q1 a Q2
-= ak sa dvakrát zväčší aj veľkosť elektrickej sily 
